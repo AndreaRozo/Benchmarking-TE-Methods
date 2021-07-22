@@ -1,4 +1,4 @@
-# Benchmarking-TE-Methods
+# Benchmarking Transfer Entropy Methods for the Study of Linear and Nonlinear Cardio-Respiratory Interactions
 Supplementary Material:
 
 Figure 1 - Figure 4: Results of changing the lag for the embedding vectors generation and the parameters of the LIN, KNN, FBR and KDE methods.
